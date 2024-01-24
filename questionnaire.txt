@@ -1,0 +1,19 @@
+1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+It took me approximately 3 hours to complete this assessment.
+
+2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+I used chatGPT for information on the 11 different global modules and I used https://expressjs.com for information on express js.
+
+3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+I did not ask for any help.
+
+4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+I did not ask for any help.
+
+5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+I found Task 3 very easy, task 2 and task 1 easy. I am confident that I can solve a similar but different problem in the future.
